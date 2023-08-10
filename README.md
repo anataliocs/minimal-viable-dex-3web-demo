@@ -8,6 +8,7 @@ Implementation of a minimal viable DEX dapp on the Ethereum Blockchain.
 
 ### Frameworks
 
+- [ThirdWeb](https://thirdweb.com/)
 - [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
 - [Auth.js](https://authjs.dev/) – Handle user authentication with ease with providers like Google, Twitter, GitHub, etc.
 - [Prisma](https://www.prisma.io/) – Typescript-first ORM for Node.js
