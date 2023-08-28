@@ -2,6 +2,12 @@
 
 Implementation of a minimal viable DEX dapp on Ethereum, built with Next.js, ThirdWeb and Tailwind.
 
+This application will demonstrate how to:
+- Approve the contract
+- Bootstrap liquidity
+- Deposit to the Liquidity Pool(LP)
+- Swap a token for ETH
+
 ## Run Application
 
 `npm run dev`
