@@ -8,9 +8,15 @@ This application will demonstrate how to:
 - Deposit to the Liquidity Pool(LP)
 - Swap a token for ETH
 
+We will interact with the deployed smart contract via scripts and via a front-end UI.
+
 ## Run Application
 
+Run the application:
+
 `npm run dev`
+
+Then, navigate to http://localhost:3000 in your browser with a wallet plugin.
 
 ### Frameworks
 
@@ -46,6 +52,5 @@ This application will demonstrate how to:
 ## Author
 
 - [Chris Anatalio](https://twitter.com/CAnatalio)
-
 
 <a href="https://precedent.dev">Built with Precedent</a>
