@@ -18,6 +18,19 @@ Run the application:
 
 Then, navigate to http://localhost:3000 in your browser with a wallet plugin.
 
+## Setup up .env file
+
+Copy `.env.example` file and create local config file:
+
+```
+cp .env.local .env.local
+```
+
+Then update `.env.local` file:
+```
+NEXT_PUBLIC_TEMPLATE_CLIENT_ID=
+```
+
 ### Frameworks
 
 - [ThirdWeb](https://thirdweb.com/)
