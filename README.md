@@ -12,9 +12,11 @@ We will interact with the deployed smart contract via scripts and via a front-en
 
 ## Run Application
 
-Run the application:
+Run the application locally:
 
-`npm run dev`
+```
+npm run dev
+```
 
 Then, navigate to http://localhost:3000 in your browser with a wallet plugin.
 
@@ -23,7 +25,7 @@ Then, navigate to http://localhost:3000 in your browser with a wallet plugin.
 Copy `.env.example` file and create local config file:
 
 ```
-cp .env.local .env.local
+cp .env.example .env.local
 ```
 
 Then update `.env.local` file:
