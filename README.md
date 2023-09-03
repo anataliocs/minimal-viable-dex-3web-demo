@@ -10,17 +10,9 @@ This application will demonstrate how to:
 
 We will interact with the deployed smart contract via scripts and via a front-end UI.
 
-## Run Application
-
-Run the application locally:
-
-```
-npm run dev
-```
-
-Then, navigate to http://localhost:3000 in your browser with a wallet plugin.
-
 ## Setup up .env file
+
+Create an account on https://thirdweb.com/ and grab your client ID.
 
 Copy `.env.example` file and create local config file:
 
@@ -32,6 +24,16 @@ Then update `.env.local` file:
 ```
 NEXT_PUBLIC_TEMPLATE_CLIENT_ID=
 ```
+
+## Run Application
+
+Run the application locally:
+
+```
+npm run dev
+```
+
+Then, navigate to http://localhost:3000 in your browser with a wallet plugin such as https://metamask.io/
 
 ### Frameworks
 
