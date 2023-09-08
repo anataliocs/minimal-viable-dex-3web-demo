@@ -6,7 +6,10 @@ This application will demonstrate how to:
 - Approve the contract
 - Bootstrap liquidity
 - Deposit to the Liquidity Pool(LP)
-- Swap a token for ETH
+- Perform Swaps
+
+We will be implementing a simplified, basic DEX, similar to UniswapV1 and go into how the x*y=k curve functions
+and the impact of swaps on that curve that dictate the price delta and mid-price of assets on the protocol.
 
 We will interact with the deployed smart contract via scripts and via a front-end UI.
 
